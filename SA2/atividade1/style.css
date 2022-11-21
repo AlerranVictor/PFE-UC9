@@ -9,8 +9,11 @@ header{
     height: 95px;
 }
 
-.cabecalho{
+.grid{
     width: 1200px;
+}
+
+.cabecalho{
     height: 100%;
     margin: 0 auto;
     display: flex;
@@ -47,7 +50,6 @@ header{
     display: flex;
     background-color: #B01A1A;
     height: 100%;
-    width: 1200px;
     justify-content: space-around;
     align-items: center;
 }
@@ -71,7 +73,6 @@ header{
 .textDes{
     background-color: #0D0909;
     display: flex;
-    width: 1200px;;
     height: 50px;
 }
 
@@ -86,7 +87,6 @@ header{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 1200px;
     height: 190px;
 }
 
